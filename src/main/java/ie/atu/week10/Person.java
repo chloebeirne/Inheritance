@@ -3,7 +3,7 @@ package ie.atu.week10;
 import java.util.Scanner;
 
 public class Person {
-    public static void main(String[] args) {
+
         private String name;
         private String address;
         private String number;
@@ -53,7 +53,7 @@ public class Person {
                         "name'" + name + '\'' +
                         ", address ='" + address + '\'' +
                         ", number = '" + number + '\'' +
-                        '}'
+                        '}';
             }
     }
-}
+
